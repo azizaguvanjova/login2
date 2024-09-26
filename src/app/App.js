@@ -54,7 +54,7 @@ const App = () => {
           <img
             src="/image 3.png"
             alt="Bird"
-            className="h-full w-full object-cover rounded-bl-[150px] rounded-tl-[150px]"
+            className="h-full w-full object-cover rounded-bl-[250px] rounded-tl-[250px]"
           />
         </div>
       </div>
